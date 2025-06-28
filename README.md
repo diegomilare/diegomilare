@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Diego! 👋
 
-<!--
-**diegomilare/diegomilare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 👷 Profissão atual: Operador de CNC (em transição de carreira)
+- 👨‍💻 Estudante focado em se tornar **Programador Fullstack**
+- 🎮 Amante de games e apaixonado por programação
+- 💡 Sempre em busca de novos desafios e aprendizados em tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas habilidades e interesses
+
+- **Programação Fullstack:** Frontend & Backend
+- **Jogos digitais:** Desenvolvimento, análise e diversão
+- **Tecnologia:** Sempre acompanhando as novidades do mundo tech
+- **Aprendizado contínuo:** Buscando evoluir cada dia mais
+
+## Contato
+
+- ✉️ diego.milare@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-milar%C3%A9-martins-ab2637a0/)
+
+---
+
+> "A transição de carreira pode ser um desafio, mas com dedicação e paixão, tudo é possível!"
